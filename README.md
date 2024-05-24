@@ -1,1 +1,3 @@
-# 3d-Portfolio-react-tailwind
+For you to the code just type in the terminal
+
+ npm run dev 
